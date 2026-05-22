@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gym town badge / shield outline -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#FF3333"
+        android:fillColor="#00000000"
+        android:pathData="M 54,16 A 38,38 0 1 0 54,92 A 38,38 0 1 0 54,16" />
+    
+    <!-- Red glowing circle rings -->
+    <path
+        android:strokeWidth="1.0"
+        android:strokeColor="#88FF3333"
+        android:fillColor="#00000000"
+        android:pathData="M 54,22 A 32,32 0 1 0 54,86 A 32,32 0 1 0 54,22" />
+
+    <!-- Dumbbell Bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 24,51 h 60 v 6 h -60 z" />
+
+    <!-- Left weight plates -->
+    <!-- Outer thin plate -->
+    <path
+        android:fillColor="#FF2222"
+        android:pathData="M 30,34 h 4 v 40 h -4 z" />
+    <!-- Main plate -->
+    <path
+        android:fillColor="#D50000"
+        android:pathData="M 36,28 h 6 v 52 h -6 z" />
+
+    <!-- Right weight plates -->
+    <!-- Main plate -->
+    <path
+        android:fillColor="#D50000"
+        android:pathData="M 66,28 h 6 v 52 h -6 z" />
+    <!-- Outer thin plate -->
+    <path
+        android:fillColor="#FF2222"
+        android:pathData="M 74,34 h 4 v 40 h -4 z" />
+
+    <!-- Central design text accent "M" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 50,44 L 54,50 L 58,44 L 61,44 L 61,54 H 59 L 59,48 L 55,54 H 53 L 49,48 L 49,54 H 47 L 47,44 Z" />
+</vector>

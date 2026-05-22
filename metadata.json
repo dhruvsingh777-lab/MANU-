@@ -1,0 +1,6 @@
+{
+  "name": "MANU GYM TOWN",
+  "description": "Premium health, bodybuilding, and AI fitness coaching app with Indian diet plans and real-time workout recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
